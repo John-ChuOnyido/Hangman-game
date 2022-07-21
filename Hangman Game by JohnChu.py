@@ -1,4 +1,4 @@
-#importing the necessary python bult-in function
+#importing the necessary python libraries
 import time
 import random
 #Welcome note by the developer.
